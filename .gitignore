@@ -56,3 +56,6 @@ Release
 *.suo
 *.sdf
 Xcode/build.xcconfig
+# pixi environments
+.pixi/*
+!.pixi/config.toml
